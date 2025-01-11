@@ -17,7 +17,7 @@ Desenvolvendo projetos práticos com Python e Java.
 
 📬 Contato:
 
-Seja para colaborar em projetos ou trocar ideias, fique à vontade para me chamar no linkedin "[Jéssica Vitória](www.linkedin.com/in/jéssica-vitória-martins)".
+Seja para colaborar em projetos ou trocar ideias, fique à vontade para me chamar no linkedin "[Jéssica Vitória](https://www.linkedin.com/in/jéssica-vitória-martins)".
 
 
 
