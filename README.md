@@ -2,25 +2,23 @@
 
 **`Desenvolvedora FullStack e Aspirante a DevOps `**
 
-Olá! Me chamo Jéssica Vitória, tenho 21 anos e sou natural de Pernambuco. Sou formada em Redes de Computadores e atualmente estou aprimorando minhas habilidades em programação para expandir minha atuação no universo de DevOps.
-
-💻 O que faço?
-
-Crio soluções FullStack que integram criatividade e funcionalidade.
-Apaixonada por automação, infraestrutura como código e cultura DevOps.
-
-📚 O que estou aprendendo?
-
-Aprimorando meu conhecimento em Cloud Computing (AWS, Azure).
-Explorando CI/CD pipelines e ferramentas como Docker e Kubernetes.
-Desenvolvendo projetos práticos com Python e Java.
-
-📬 Contato:
-
-Seja para colaborar em projetos ou trocar ideias, fique à vontade para me chamar no linkedin "[Jéssica Vitória](https://www.linkedin.com/in/jéssica-vitória-martins)".
+Olá! Me chamo Jéssica Vitória, tenho 21 anos e sou natural de Pernambuco. Sou formada em Redes de Computadores e atualmente estou aprimorando minhas habilidades em programação para expandir minha atuação no universo de DevOps. Crio soluções FullStack que integram criatividade e funcionalidade.
 
 
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGllNWo4cm9jNHM0b2pvcnR2djF1NWlyamRnaXF6eGowdnRrZDRuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" alt="Cute Cat GIF" width="150">
+</p>
 
+Seja para colaborar em projetos ou trocar ideias, fique à vontade para entrar em contato!.
+
+<p align="center">
+  <a href="https://www.instagram.com/jesshh._?igsh=MXNmdTR5ODgwdWNkNA==">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/jéssica-vitória-martins">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ### 🤖 Linguagens e Tecnologias
     
@@ -62,4 +60,4 @@ Seja para colaborar em projetos ou trocar ideias, fique à vontade para me chama
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" 
     />
 </div>
-   
+
