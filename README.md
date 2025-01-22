@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Jéssica Vitória ✨
 
-**`Desenvolvedora FullStack e Aspirante a DevOps `**
+**`Desenvolvedora Front-end e Aspirante a DevOps `**
 
-Olá! Me chamo Jéssica Vitória, tenho 21 anos e sou natural de Pernambuco. Sou formada em Redes de Computadores e atualmente estou aprimorando minhas habilidades em programação para expandir minha atuação no universo de DevOps. Crio soluções FullStack que integram criatividade e funcionalidade.
+Olá! Me chamo Jéssica Vitória, tenho 21 anos e sou natural de Pernambuco. Sou formada em Redes de Computadores e atualmente estou aprimorando minhas habilidades em programação para expandir minha atuação no universo de DevOps. Crio soluções que integram criatividade e funcionalidade.
 
 
 <p align="center">
