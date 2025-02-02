@@ -1,18 +1,13 @@
 # 👩🏻‍💻 Jéssica Vitória ✨
 
-**`Desenvolvedora Front-end e Aspirante a DevOps `**
+**`🚀 Desenvolvedora Front-end & UI/UX Designer 🎨`**
 
-Olá! Me chamo Jéssica Vitória, tenho 21 anos e sou natural de Pernambuco. Sou formada em Redes de Computadores e atualmente estou aprimorando minhas habilidades em programação para expandir minha atuação no universo de DevOps. Crio soluções que integram criatividade e funcionalidade.
-
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGllNWo4cm9jNHM0b2pvcnR2djF1NWlyamRnaXF6eGowdnRrZDRuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" alt="Cute Cat GIF" width="150">
-</p>
+Olá!, me chamo Jéssica Vitória! Tenho 21 anos, sou de Pernambuco e apaixonada por tecnologia e design. Me formei em Redes de Computadores, mas minha jornada me levou ao incrível mundo do desenvolvimento web!. Adoro transformar ideias em interfaces incríveis, juntando criatividade e funcionalidade para criar experiências digitais que fazem a diferença. Estou sempre aprendendo e explorando novas formas de tornar a web mais bonita, acessível e intuitiva. 🚀💜
 
 Seja para colaborar em projetos ou trocar ideias, fique à vontade para entrar em contato!.
 
 <p align="center">
-  <a href="https://www.instagram.com/jesshh._?igsh=MXNmdTR5ODgwdWNkNA==">
+  <a href="https://www.instagram.com/jessh.codes/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/jéssica-vitória-martins">
@@ -20,9 +15,16 @@ Seja para colaborar em projetos ou trocar ideias, fique à vontade para entrar e
   </a>
 </p>
 
+---
+
+| GitHub Stats | Linguagens Mais Usadas |
+|-------------|----------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=Jessh00&show_icons=true&bg_color=000000&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessh00&layout=compact&bg_color=000000&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6" width="350"/> |
+
+---
 ### 🤖 Linguagens e Tecnologias
-    
- <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img 
         alt="Java" 
         title="Java" 
@@ -30,34 +32,22 @@ Seja para colaborar em projetos ou trocar ideias, fique à vontade para entrar e
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
     />
     <img 
-        alt="Linux" 
-        title="Linux" 
+        alt="HTML5" 
+        title="HTML5" 
         width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
     />
     <img 
-        alt="Fedora" 
-        title="Fedora" 
+        alt="CSS3" 
+        title="CSS3" 
         width="30px" 
-        src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
     />
     <img 
-        alt="Ubuntu" 
-        title="Ubuntu" 
+        alt="JavaScript" 
+        title="JavaScript" 
         width="30px" 
-        src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" 
-    />
-    <img 
-        alt="Docker" 
-        title="Docker" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
-    />
-    <img 
-        alt="Python" 
-        title="Python" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
     />
 </div>
 
