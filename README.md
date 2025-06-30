@@ -2,7 +2,7 @@
 
 **`🚀 Desenvolvedora Front-end & UI/UX Designer 🎨`**
 
-Olá!, me chamo Jéssica Vitória! Tenho 21 anos, sou de Pernambuco e apaixonada por tecnologia e design. Me formei em Redes de Computadores, mas minha jornada me levou ao incrível mundo do desenvolvimento web!. Adoro transformar ideias em interfaces incríveis, juntando criatividade e funcionalidade para criar experiências digitais que fazem a diferença. Estou sempre aprendendo e explorando novas formas de tornar a web mais bonita, acessível e intuitiva. 🚀💜
+Olá!, me chamo Jéssica Vitória!, apaixonada por tecnologia e design. Me formei em Redes de Computadores, mas minha jornada me levou ao incrível mundo do desenvolvimento web!. Adoro transformar ideias em interfaces incríveis, juntando criatividade e funcionalidade para criar experiências digitais que fazem a diferença. Estou sempre aprendendo e explorando novas formas de tornar a web mais bonita, acessível e intuitiva. 🚀💜
 
 Seja para colaborar em projetos ou trocar ideias, fique à vontade para entrar em contato!.
 
