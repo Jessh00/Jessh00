@@ -16,12 +16,6 @@ Seja para colaborar em projetos ou trocar ideias, fique à vontade para entrar e
 </p>
 
 ---
-
-| GitHub Stats | Linguagens Mais Usadas |
-|-------------|----------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=Jessh00&show_icons=true&bg_color=000000&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessh00&layout=compact&bg_color=000000&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6" width="350"/> |
-
----
 ### 🤖 Linguagens e Tecnologias
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
