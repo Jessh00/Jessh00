@@ -1,10 +1,12 @@
 # 👩🏻‍💻 Jéssica Vitória ✨
 
-**`🚀 Desenvolvedora Front-end & UI/UX Designer 🎨`**
+**`🚀 Desenvolvedora Front-end`**
 
-Olá!, me chamo Jéssica Vitória!, apaixonada por tecnologia e design. Me formei em Redes de Computadores, mas minha jornada me levou ao incrível mundo do desenvolvimento web!. Adoro transformar ideias em interfaces incríveis, juntando criatividade e funcionalidade para criar experiências digitais que fazem a diferença. Estou sempre aprendendo e explorando novas formas de tornar a web mais bonita, acessível e intuitiva. 🚀💜
+Olá! Me chamo Jéssica Vitória, apaixonada por tecnologia e design. Sou formada em Redes de Computadores e atualmente curso Engenharia da Computação.
 
-Seja para colaborar em projetos ou trocar ideias, fique à vontade para entrar em contato!.
+Estou sempre aprendendo e explorando novas formas de tornar a web mais bonita, acessível e intuitiva. Também venho trabalhando com automação de processos de TI utilizando n8n, Docker e PostgreSQL 🚀💜
+
+Seja para colaborar em projetos ou trocar ideias, fique à vontade para entrar em contato!
 
 <p align="center">
   <a href="https://www.instagram.com/jessh.codes/">
@@ -16,6 +18,7 @@ Seja para colaborar em projetos ou trocar ideias, fique à vontade para entrar e
 </p>
 
 ---
+
 ### 🤖 Linguagens e Tecnologias
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -42,6 +45,18 @@ Seja para colaborar em projetos ou trocar ideias, fique à vontade para entrar e
         title="JavaScript" 
         width="30px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+    />
+    <img 
+        alt="Docker" 
+        title="Docker" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
+    />
+    <img 
+        alt="PostgreSQL" 
+        title="PostgreSQL" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
     />
 </div>
 
