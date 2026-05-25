@@ -20,67 +20,16 @@ Atuo no desenvolvimento de soluções web e automação de processos de TI, cria
 ###### 🤖 Linguagens e Tecnologias
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-    <img 
-        alt="HTML5" 
-        title="HTML5" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-    />
-    <img 
-        alt="CSS3" 
-        title="CSS3" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-    />
-    <img 
-        alt="JavaScript" 
-        title="JavaScript" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-    />
-    <img 
-        alt="React" 
-        title="React" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-    />
-    <img 
-        alt="Node.js" 
-        title="Node.js" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-    />
-    <img 
-        alt="Python" 
-        title="Python" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-    />
-    <img 
-        alt="Docker" 
-        title="Docker" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
-    />
-    <img 
-        alt="PostgreSQL" 
-        title="PostgreSQL" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
-    />
-    <img 
-        alt="Supabase" 
-        title="Supabase" 
-        width="30px" 
-        src="https://cdn.simpleicons.org/supabase/3ECF8E" 
-    />
-    <img 
-        alt="n8n" 
-        title="n8n" 
-        width="30px" 
-        src="https://cdn.simpleicons.org/n8n/EA4B71" 
-   
-   />
+    <img alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    <img alt="CSS3" title="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+    <img alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+    <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img alt="Docker" title="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+    <img alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+    <img alt="Supabase" title="Supabase" width="30px" src="https://cdn.simpleicons.org/supabase/3ECF8E"/>
+    <img alt="n8n" title="n8n" width="30px" src="https://cdn.simpleicons.org/n8n/EA4B71"/>
 </div>
 
 <picture align="center">
