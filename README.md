@@ -1,12 +1,10 @@
 # 👩🏻‍💻 Jéssica Vitória ✨
 
-**`🚀 Desenvolvedora Front-end`**
+**`🚀 Desenvolvedora Full Stack & Automação`**
 
-Olá! Me chamo Jéssica Vitória, apaixonada por tecnologia e design. Sou formada em Redes de Computadores e atualmente curso Engenharia da Computação.
+Olá! Me chamo Jéssica Vitória, apaixonada por tecnologia, automação e experiências digitais. Sou formada em Redes de Computadores e atualmente curso Engenharia da Computação.
 
-Estou sempre aprendendo e explorando novas formas de tornar a web mais bonita, acessível e intuitiva. Também venho trabalhando com automação de processos de TI utilizando n8n, Docker e PostgreSQL 🚀💜
-
-Seja para colaborar em projetos ou trocar ideias, fique à vontade para entrar em contato!
+Atuo no desenvolvimento de soluções web e automação de processos de TI, criando integrações e fluxos inteligentes com ferramentas como n8n, Docker, PostgreSQL e APIs. Também tenho interesse em construir interfaces modernas, acessíveis e intuitivas.interfaces bonitas, acessíveis e intuitivas. 
 
 <p align="center">
   <a href="https://www.instagram.com/jessh.codes/">
@@ -19,15 +17,9 @@ Seja para colaborar em projetos ou trocar ideias, fique à vontade para entrar e
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+###### 🤖 Linguagens e Tecnologias
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img 
-        alt="Java" 
-        title="Java" 
-        width="30px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
-    />
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
     <img 
         alt="HTML5" 
         title="HTML5" 
@@ -47,6 +39,24 @@ Seja para colaborar em projetos ou trocar ideias, fique à vontade para entrar e
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
     />
     <img 
+        alt="React" 
+        title="React" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+    />
+    <img 
+        alt="Node.js" 
+        title="Node.js" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+    />
+    <img 
+        alt="Python" 
+        title="Python" 
+        width="30px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+    />
+    <img 
         alt="Docker" 
         title="Docker" 
         width="30px" 
@@ -58,6 +68,19 @@ Seja para colaborar em projetos ou trocar ideias, fique à vontade para entrar e
         width="30px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
     />
+    <img 
+        alt="Supabase" 
+        title="Supabase" 
+        width="30px" 
+        src="https://cdn.simpleicons.org/supabase/3ECF8E" 
+    />
+    <img 
+        alt="n8n" 
+        title="n8n" 
+        width="30px" 
+        src="https://cdn.simpleicons.org/n8n/EA4B71" 
+   
+   />
 </div>
 
 <picture align="center">
