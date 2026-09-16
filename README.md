@@ -4,7 +4,7 @@
 
 Olá! Me chamo Jéssica Vitória, apaixonada por tecnologia, automação e experiências digitais. Sou formada em Redes de Computadores e atualmente curso Engenharia da Computação.
 
-Atuo no desenvolvimento de soluções web e automação de processos de TI, criando integrações e fluxos inteligentes com ferramentas como n8n, Docker, PostgreSQL e APIs. Também tenho interesse em construir interfaces modernas, acessíveis e intuitivas.interfaces bonitas, acessíveis e intuitivas. 
+Atuo no desenvolvimento de soluções web e automação de processos de TI, criando integrações e fluxos inteligentes com ferramentas como n8n, Docker, PostgreSQL e APIs. Também tenho interesse em construir interfaces modernas, acessíveis e intuitivas.
 
 <p align="center">
   <a href="https://www.instagram.com/jessh.codes/">
